@@ -1,5 +1,5 @@
 # AFSK
-simulation the modulation and demodulation of audio frequency-shift keying
+simulation for the modulation and demodulation of audio frequency-shift keying
 
 ## Requirements
 
